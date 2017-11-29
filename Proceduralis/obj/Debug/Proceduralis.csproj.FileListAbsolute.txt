@@ -1,0 +1,67 @@
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\ApplicationInsights.config
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\csc.exe
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\vbc.exe
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\VBCSCompiler.exe
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Proceduralis.dll.config
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Proceduralis.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Proceduralis.pdb
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.Web.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.ApplicationInsights.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.Web.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.ApplicationInsights.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\obj\Debug\Proceduralis.dll
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\obj\Debug\Proceduralis.pdb
+C:\Users\feli2\documents\visual studio 2015\Projects\Proceduralis\Proceduralis\obj\Debug\Proceduralis.csprojResolveAssemblyReference.cache
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\ApplicationInsights.config
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\csc.exe
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\System.Collections.Immutable.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\System.Reflection.Metadata.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\vbc.exe
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\VBCSCompiler.exe
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\roslyn\VBCSCompiler.exe.config
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Proceduralis.dll.config
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Proceduralis.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Proceduralis.pdb
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.DependencyCollector.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.Web.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.WindowsServer.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.ApplicationInsights.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.DependencyCollector.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.Web.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.AI.WindowsServer.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.ApplicationInsights.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Programas\VSDocs\Proceduralis\Proceduralis\obj\Debug\Proceduralis.csproj.CoreCompileInputs.cache
+F:\Programas\VSDocs\Proceduralis\Proceduralis\obj\Debug\Proceduralis.dll
+F:\Programas\VSDocs\Proceduralis\Proceduralis\obj\Debug\Proceduralis.pdb
+F:\Programas\VSDocs\Proceduralis\Proceduralis\obj\Debug\Proceduralis.csprojResolveAssemblyReference.cache

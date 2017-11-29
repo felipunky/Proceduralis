@@ -1,0 +1,16 @@
+﻿body {
+    font-family: 'Raleway', serif;
+    font-size: 22px;
+}
+h1{
+    font: 500px;
+}
+.animacionProcedural {
+    background-color: darkgray;
+    text-align: center;
+    color: lightseagreen;
+}
+.tabla {
+    background-color: lightgray;
+}
+
