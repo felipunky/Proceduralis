@@ -1,16 +1,14 @@
 ﻿var gl;
 var model;
 
-var InitApp = function ( ) {
-    loadTextResource('shader.vs.glsl', function (vsError, vsText) {
+var InitApp = function () {
+    loadTextResource('/shader.vs.glsl', function (vsError, vsText) {
 
         if (vsError) {
             alert('Fatal error getting vertex shader (see console for details)');
             console.error(vsError);
         }
-        else
-
-        {
+        else {
 
             loadTextResource('/shader.fs.glsl', function (fsError, fsText) {
 
@@ -20,8 +18,7 @@ var InitApp = function ( ) {
                     console.error(fsError);
 
                 }
-                else
-                {
+                else {
 
                     loadJSONResource('/Susan.json', function (modelErr, modelObj) {
 
@@ -32,9 +29,7 @@ var InitApp = function ( ) {
 
                         }
 
-                        else
-
-                        {
+                        else {
 
                             loadImage('/Images/m870Text.png', function (imgErr, img) {
 
@@ -45,14 +40,12 @@ var InitApp = function ( ) {
 
                                 }
 
-                                else
-
-                                {
+                                else {
 
                                     RunApp(vsText, fsText, img, modelObj);
 
                                 }
-                           });                            
+                            });
 
                         }
 

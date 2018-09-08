@@ -109,6 +109,9 @@
     </Content>
     <Content Include="app.js" />
     <Content Include="README.md" />
+    <Content Include="Cube.json" />
+    <Content Include="cubeShader.fs.glsl" />
+    <Content Include="cubeShader.vs.glsl" />
     <None Include="shader.vs.glsl" />
     <None Include="shader.fs.glsl" />
     <None Include="Web.Debug.config">
